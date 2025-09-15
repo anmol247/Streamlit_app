@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Python version manager
+.python-version
+
+# Streamlit local config
+.streamlit/
+
+# Virtual environment folder (if created inside the project)
+venv/
